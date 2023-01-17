@@ -1,0 +1,116 @@
+{
+    "name": "Muhammad Manan",
+    "email": "loopsstack@gmail.com",
+    "subtitles": [
+        "Sr. Flutter Developer",
+        "Technical Writer",
+        "UI/UX Designer"
+    ],
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://www.facebook.com/muhammad.manan.77582"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://www.instagram.com/manan_22_1/"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/loopsstack33"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://pk.linkedin.com/in/mohammad-manan-681b74145"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/loopstack33"
+        },
+        {
+            "platform": "medium",
+            "url": "https://medium.com/@loopsstack"
+        }
+    ],
+    "aboutMeHeadline": "I'm Muhammad Manan, a Flutter developer, Technical Writer and UI/UX Designer.",
+    "aboueMeDetails": "I'm a Final Year Computer Science student enrolled in University Of Gujrat, Lahore. I have been developing mobile apps for over 2 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. I'm a former Google DSC lead and also CEO/Co-Founder Flutter Islamabad, Pakistan.",
+    "technologies": [
+        "Flutter",
+        "Dart",
+        "PHP",
+        "MySql",
+        "Java"
+    ],
+    "services": [
+        {
+            "icon": "assets/services/app.png",
+            "name": "Mobile App Development",
+            "description": "Android app development via Flutter\n- Complete UI\n- Firebase\n- REST APIs\n- Maps integration and more...!"
+        },
+        {
+            "icon": "assets/services/ui.png",
+            "name": "UI/UX Designing",
+            "description": "Modern UI/UX Designing\n- Adobe XD\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
+        },
+        {
+            "icon": "assets/services/open.png",
+            "name": "Open Source - GitHub",
+            "description": "Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"
+        }
+    ],
+    "hireMe": {
+        "whatsapp": "923234591996"
+    },
+    "projects": [
+        {
+            "title": "Fancy Buttons",
+            "iconUrl": "https://github.com/loopstack33/fancy_buttons",
+            "bannerUrl": "assets/projects/fancy.png",
+            "description": "Fancy Buttons is a flutter widget library, include buttons for which is fully customizable and can be extended on request. No more extra hassle for all the extra working around with buttons.\n\n"
+        },
+        {
+            "title": "myUIC",
+            "iconUrl": "https://play.google.com/store/apps/details?id=com.theunitedinsurance.myuic",
+            "bannerUrl": "assets/projects/myUIC.png",
+            "description": "This app is one stop app to do all things at one place. It provides a full range of insurance services starting with motor, health, travel insurance service and mehfooz karobar. With this app you can create an insurance policy, keep all your details up-to-date. We hope you like what we have been doing in our digital lives to make your life more convenient with myUIC.\n"
+        },
+        {
+            "title": "myUTS",
+            "iconUrl": "https://play.google.com/store/apps/details?id=com.uts.utstrackingapp",
+            "bannerUrl": "assets/projects/myUTS.png",
+            "description": "You can track your vehicles on this App if you have an active account on http://webtrack.unitedtracker.com\nOr you can obtain your user name and password of your registered vehicle on United Track by calling on\n+92 42 111 000 320\n"
+        },
+        {
+            "title": "Yiwubazaar",
+            "iconUrl": "https://play.google.com/store/apps/details?id=com.yiwuteam.yiwubaazarapp",
+            "bannerUrl": "assets/projects/yiwu.png",
+            "description": "Yiwubazaar.com is the B2B e-commerce marketplace connecting entire world with Yiwu Small commodity market. Yiwubazaar.com app offers free access to all the buyers around the world to explore Yiwu market through our app and fulfill all their sourcing requirement. This platform is designed to offer all the buyers the blend of traditional wholesale experience and modern ecommerce technology."
+        },
+        {
+            "title": "Dry Car Wash",
+            "iconUrl": "https://play.google.com/store/apps/details?id=com.greenway.drycarwashcustomer",
+            "bannerUrl": "assets/projects/carwash.png",
+            "description": "Dry car wash is a unique waterless cleaning compound that safely cleans and protects without harming surface paint. Can be applied in direct sunlight. Just Spray away to a perfect high gloss shine. Cleansed, polishes in one precision process. Can be used virtually anywhere, anytime on a wet and dry surface. We are providing these services only in Lahore. Our car detailing team is an expert in precision cleaning, and waxing cars. Our Services include Interior Reconditioning, Engine Bay Cleaning, Exterior Detailing, and application of Protective Coatings on Paint, Leather, trim, Rims, and Fabric. You are our guest as proud car owners and your precious possession is assured of a conditioned and safe environment where we can work to perfection."
+        },
+        {
+            "title": "Friendlee",
+            "iconUrl": "https://play.google.com/store/apps/details?id=com.weaniotechnologies.friendlee",
+            "bannerUrl":"assets/projects/friendlee.png",
+            "description": "Friendlee is a mobile application that allows you to exchange with your private network on specific topics.\nThe objective is to share, to debate. A link with our private contacts can be made, as well as with people with the same interests (public).\n"
+        }
+    ],
+    "contact": [
+        {
+            "param": "address",
+            "value": "Lahore, Pakistan"
+        },
+        {
+            "param": "phone",
+            "value": "+92 323 4591996"
+        },
+        {
+            "param": "email",
+            "value": "loopsstack@gmail.com"
+        }
+    ]
+}
